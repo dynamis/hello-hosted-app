@@ -1,0 +1,12 @@
+{
+  "name": "くろむ！？",
+  "description": "はじめての Firefox OS あぷり",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "dynamis",
+    "url": "http://dynamis.jp/"
+  },
+  "icons": {
+    "128": "/icons/chrome128.png"
+  }
+}
