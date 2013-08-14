@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-size: 24px;
+  background-color: #EAEFF2;
+}
+
+/* 
+ * Firefox OS color: http://www.mozilla.org/en-US/styleguide/identity/firefoxos/color/
+ */
+.firefoxorange {
+  background-color: #E66000;
+}
+.firefoxlightorange {
+  background-color: #FF9500;
+}
+.firefoxblue {
+  background-color: #00539F;
+}
+.firefoxlightblue {
+  background-color: #0095DD;
+}
+.firefoxosbrown {
+  background-color: #330000;
+}
+.mozillacharcoal {
+  background-color: #4D4E53;
+}
