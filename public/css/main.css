@@ -1,12 +1,14 @@
-body {
+/***** Base Style *****/
+html {
   margin: 0;
-  padding: 10px;
+  padding: 0;
   font-size: 24px;
+  line-height: 1.6;
   background-color: #EAEFF2;
 }
 
-/* 
- * Firefox OS color: http://www.mozilla.org/en-US/styleguide/identity/firefoxos/color/
+/***** Firefox OS Color *****
+ * http://www.mozilla.org/en-US/styleguide/identity/firefoxos/color/
  */
 .firefoxorange {
   background-color: #E66000;
@@ -26,3 +28,21 @@ body {
 .mozillacharcoal {
   background-color: #4D4E53;
 }
+
+/***** Common Classes *****/
+.none {
+  display: none;
+}
+
+/***** Site Specific Styles *****/
+
+#installer {
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+#installButton {
+  font-size: 1rem;
+}
+
+
